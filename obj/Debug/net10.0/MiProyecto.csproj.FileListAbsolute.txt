@@ -1,0 +1,15 @@
+C:\PracticaPF\MiProyecto\bin\Debug\net10.0\MiProyecto.exe
+C:\PracticaPF\MiProyecto\bin\Debug\net10.0\MiProyecto.deps.json
+C:\PracticaPF\MiProyecto\bin\Debug\net10.0\MiProyecto.runtimeconfig.json
+C:\PracticaPF\MiProyecto\bin\Debug\net10.0\MiProyecto.dll
+C:\PracticaPF\MiProyecto\bin\Debug\net10.0\MiProyecto.pdb
+C:\PracticaPF\MiProyecto\obj\Debug\net10.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\PracticaPF\MiProyecto\obj\Debug\net10.0\MiProyecto.AssemblyInfoInputs.cache
+C:\PracticaPF\MiProyecto\obj\Debug\net10.0\MiProyecto.AssemblyInfo.cs
+C:\PracticaPF\MiProyecto\obj\Debug\net10.0\MiProyecto.csproj.CoreCompileInputs.cache
+C:\PracticaPF\MiProyecto\obj\Debug\net10.0\MiProyecto.sourcelink.json
+C:\PracticaPF\MiProyecto\obj\Debug\net10.0\MiProyecto.dll
+C:\PracticaPF\MiProyecto\obj\Debug\net10.0\refint\MiProyecto.dll
+C:\PracticaPF\MiProyecto\obj\Debug\net10.0\MiProyecto.pdb
+C:\PracticaPF\MiProyecto\obj\Debug\net10.0\MiProyecto.genruntimeconfig.cache
+C:\PracticaPF\MiProyecto\obj\Debug\net10.0\ref\MiProyecto.dll
