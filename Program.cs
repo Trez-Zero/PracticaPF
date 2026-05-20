@@ -4,12 +4,12 @@ int[] edades = new int[25];
 
 //1. Ingresar edades
 
-
-
-
 //2. mostrar edades
-
-
+Console.WriteLine("Todas las edades ingresadas son:");
+for (int i= 0; i < edades.Length; i++)
+{
+    Console.WriteLine($"Edad numero # {i+1}: {edades[i]} ");
+}
 
 //3. Mostrar mayores de edad
 
