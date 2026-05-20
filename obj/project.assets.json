@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ruizr\\.nuget\\packages\\": {}
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PracticaPF\\MiProyecto\\MiProyecto.csproj",
+      "projectUniqueName": "C:\\a\\PracticaPF\\MiProyecto.csproj",
       "projectName": "MiProyecto",
-      "projectPath": "C:\\PracticaPF\\MiProyecto\\MiProyecto.csproj",
-      "packagesPath": "C:\\Users\\ruizr\\.nuget\\packages\\",
-      "outputPath": "C:\\PracticaPF\\MiProyecto\\obj\\",
+      "projectPath": "C:\\a\\PracticaPF\\MiProyecto.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\a\\PracticaPF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ruizr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

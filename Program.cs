@@ -16,6 +16,11 @@ int[] edades = new int[25];
 
 
 //4. mostrar menores de edad
-
-
-
+Console.WriteLine("Mostrar los menores de edad:");
+for (int i =0; i < edades.Length; i++)
+{
+ if (edades[i] < 18)
+    {
+        Console.WriteLine(edades[i]);
+    }
+}
